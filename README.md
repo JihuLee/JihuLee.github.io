@@ -108,7 +108,7 @@
   </section>
 
   <footer style="text-align:center; padding:2rem; color:#6b7280;">
-    © 2025 Your Name · <a href="https://linkedin.com/in/jihu-lee" target="_blank">LinkedIn</a> · 
+    © 2025 Jihu Lee · <a href="https://linkedin.com/in/jihu-lee" target="_blank">LinkedIn</a> · 
     <a href="https://github.com/JihuLee" target="_blank">GitHub</a>
   </footer>
 </body>
