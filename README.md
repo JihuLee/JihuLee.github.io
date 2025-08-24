@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Resume</title>
+  <title>Jihu Lee</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
     body {
@@ -108,8 +108,8 @@
   </section>
 
   <footer style="text-align:center; padding:2rem; color:#6b7280;">
-    © 2025 Your Name · <a href="https://linkedin.com/in/yourname" target="_blank">LinkedIn</a> · 
-    <a href="https://github.com/yourname" target="_blank">GitHub</a>
+    © 2025 Your Name · <a href="https://linkedin.com/in/jihu-lee" target="_blank">LinkedIn</a> · 
+    <a href="https://github.com/JihuLee" target="_blank">GitHub</a>
   </footer>
 </body>
 </html>
