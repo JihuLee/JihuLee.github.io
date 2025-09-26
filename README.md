@@ -1,5 +1,5 @@
 # JihuLee.github.io
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -16,10 +16,13 @@
       color: #111827;
     }
     header {
-      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       padding: 3rem 1rem;
       background: #1f2937;
       color: white;
+      text-align: left;
     }
     header h1 {
       font-size: 2.5rem;
@@ -28,6 +31,13 @@
     header p {
       font-size: 1.2rem;
       color: #d1d5db;
+    }
+    header img.profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 1.5rem;
     }
     section {
       max-width: 800px;
@@ -66,9 +76,12 @@
 </head>
 <body>
   <header>
-    <h1>Jihu Lee</h1>
-    <p>AI researcher | Data Scientist</p>
-    <a href="your-resume.pdf" class="resume-btn">Download Resume</a>
+    <img src="photo.jpg" alt="Jihu Lee" class="profile-pic">
+    <div class="header-text">
+      <h1>Jihu Lee</h1>
+      <p>AI researcher | Data Scientist</p>
+      <!-- <a href="your-resume.pdf" class="resume-btn">Download Resume</a> -->
+    </div>
   </header>
 
   <section>
@@ -84,7 +97,7 @@
     <ul>
       <li><strong>Seoul National University</strong> — Ph.D. candidate, Statistics (Mar 2020 – Present)</li>
       <li><strong>Seoul National University</strong> — Bachelor of Science, Statistics (Mar 2015 – Feb 2020)</li>
-      <li><strong>Seoul Science High School /strong> (Mar 2012 – Feb 2015)</li>
+      <li><strong>Seoul Science High School</strong> (Mar 2012 – Feb 2015)</li>
     </ul>
   </section>
         
@@ -92,7 +105,7 @@
     <h2>Work Experience</h2>
     <ul>
       <li><strong>Seoul National University</strong> — Research internship (Jan 2019 – Feb 2019)</li>
-      <li><strong>Visual Camp/strong> — Intership for algorithm development (June 2017 – July 2017)</li>
+      <li><strong>Visual Camp</strong> — Intership for algorithm development (June 2017 – July 2017)</li>
     </ul>
   </section>
 
