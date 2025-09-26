@@ -66,49 +66,57 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
-    <p>Software Engineer | Backend & AI Enthusiast</p>
+    <h1>Jihu Lee</h1>
+    <p>AI researcher | Data Scientist</p>
     <a href="your-resume.pdf" class="resume-btn">Download Resume</a>
   </header>
 
   <section>
     <h2>About Me</h2>
     <p>
-      Short introduction about yourself. For example:
-      "I’m a software engineer with experience in backend development,
-      distributed systems, and AI. Passionate about building scalable,
-      user-focused applications."
+      I'm a AI researcheer with interests in AI safety (uncertainty quantification, algorithmic fairness, adversarial robustness), and deep generative models. 
+      Passionate about statistical theories and building practical AI applications. 
     </p>
   </section>
 
   <section>
-    <h2>Skills</h2>
+    <h2>Education</h2>
     <ul>
-      <li>Python, Java, JavaScript, Go</li>
-      <li>React, Node.js, Django, Spring Boot</li>
-      <li>SQL, PostgreSQL, MongoDB</li>
-      <li>AWS, Docker, Kubernetes</li>
+      <li><strong>Seoul National University</strong> — Ph.D. candidate, Statistics (Mar 2020 – Present)</li>
+      <li><strong>Seoul National University</strong> — Bachelor of Science, Statistics (Mar 2015 – Feb 2020)</li>
+      <li><strong>Seoul Science High School /strong> (Mar 2012 – Feb 2015)</li>
+    </ul>
+  </section>
+        
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li><strong>Seoul National University</strong> — Research internship (Jan 2019 – Feb 2019)</li>
+      <li><strong>Visual Camp/strong> — Intership for algorithm development (June 2017 – July 2017)</li>
     </ul>
   </section>
 
   <section>
-    <h2>Experience</h2>
-    <ul>
-      <li><strong>Company A</strong> — Software Engineer (2021–Present)</li>
-      <li><strong>Company B</strong> — Backend Developer (2019–2021)</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Projects</h2>
+    <h2>Papers</h2>
     <ul>
       <li><strong>Project One</strong>: Brief description with <a href="#">link</a></li>
       <li><strong>Project Two</strong>: Brief description with <a href="#">link</a></li>
     </ul>
   </section>
+  
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Python, Julia, R</li>
+      <li>Scala, C, Java, SQL, PHP, CUDA</li>
+      <li>Linux, Docker, Anaconda</li>
+    </ul>
+  </section>
 
   <footer style="text-align:center; padding:2rem; color:#6b7280;">
-    © 2025 Jihu Lee · <a href="https://linkedin.com/in/jihu-lee" target="_blank">LinkedIn</a> · 
+    © 2025 Jihu Lee · 
+    <a href="https://scholar.google.co.kr/citations?hl=en&user=JfBfKJEAAAAJ" target="_blank">Google Scholar</a>
+    <a href="https://linkedin.com/in/jihu-lee" target="_blank">LinkedIn</a> · 
     <a href="https://github.com/JihuLee" target="_blank">GitHub</a>
   </footer>
 </body>
